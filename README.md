@@ -20,7 +20,6 @@ Creo apps y herramientas web, trabajo en proyectos alrededor de **PixelPlay** y 
 | :--- | :--- |
 | **[Pixel Play Launcher](https://github.com/Pixel-Play-Server/pixelplay-wails)** | Launcher de escritorio para perfiles, mods y amigos, con interfaz inspirada en Minecraft. **Go · Wails · React · TypeScript** |
 | **[Torre Elektra](https://github.com/Joacoorandom/torre-elektra)** | Reservas de departamentos y oficinas para una torre en Minecraft. **TypeScript · Next.js · Postgres** |
-| **[AlertaCL](https://github.com/Joacoorandom/AlertaCL)** | App iOS para consultar información sísmica de Chile, con mapa y notificaciones de demostración. **Swift · SwiftUI** |
 | **[HistoriaLock](https://github.com/Joacoorandom/historia-duolingo)** | Repaso de historia en una PWA con ejercicios y uso sin conexión. **TypeScript · Web** |
 | **[Xbox2Windows](https://github.com/R0Y00/Xbox2Windows)** · contribuidor | Investigación de recompilación estática: traducción CPU/GPU, carga de imágenes PE y herramientas de análisis. **Python · C++ · HLSL** |
 
