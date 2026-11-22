@@ -1,0 +1,16 @@
+{
+  "owner": "Joacoorandom",
+  "theme": {"background": "#f3f2ed", "ink": "#171d18", "accent": "#6c853a", "highlight": "#d5ed9d"},
+  "modules": [
+    {"metric": "total", "label": "REPOS PÚBLICOS", "caption": "Código para explorar"},
+    {"metric": "originals", "label": "PROYECTOS PROPIOS", "caption": "Ideas que toman forma"},
+    {"metric": "forks", "label": "FORKS", "caption": "Aprender y contribuir"}
+  ],
+  "descriptions": {
+    "personal-web-": "Mi espacio en la web: desarrollo, streams y comunidad.",
+    "praktico": "Catálogo web con filtros, carrito y pedidos. Next.js · React · TypeScript.",
+    "pixelplay-amethyst": "Launcher de Minecraft Java para Android, basado en Amethyst.",
+    "Xbox2Windows": "Investigación de recompilación estática y traducción CPU/GPU.",
+    "AnyPS5": "Herramientas para portar ejecutables de PS5 a Linux y Windows."
+  }
+}
