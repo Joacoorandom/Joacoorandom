@@ -32,9 +32,9 @@ Creo apps y herramientas web, trabajo en proyectos alrededor de **PixelPlay** y 
 
 <table>
 <tr><th>Proyecto</th><th>Qué hay detrás</th><th>Lenguaje</th></tr>
-<tr><td><a href="https://github.com/Joacoorandom/AnyPS5"><strong>AnyPS5</strong></a></td><td>Herramientas para portar ejecutables de PS5 a Linux y Windows.</td><td>—</td></tr>
+<tr><td><a href="https://github.com/Joacoorandom/AnyPS5"><strong>AnyPS5</strong></a></td><td>Herramientas para portar ejecutables de PS5 a Linux y Windows.</td><td>C++</td></tr>
 <tr><td><a href="https://github.com/Joacoorandom/pixelplay-amethyst"><strong>pixelplay-amethyst</strong></a></td><td>Launcher de Minecraft Java para Android, basado en Amethyst.</td><td>C</td></tr>
-<tr><td><a href="https://github.com/Joacoorandom/Xbox2Windows"><strong>Xbox2Windows</strong></a></td><td>Investigación de recompilación estática y traducción CPU/GPU.</td><td>—</td></tr>
+<tr><td><a href="https://github.com/Joacoorandom/Xbox2Windows"><strong>Xbox2Windows</strong></a></td><td>Investigación de recompilación estática y traducción CPU/GPU.</td><td>Python</td></tr>
 </table>
 
 <sub>Catálogo actualizado automáticamente cada 6 horas con datos públicos de GitHub.</sub>
